@@ -7,11 +7,9 @@ This is a README file indicating the use of this repository
 1. [Title of the Project](#Name-of-the-Project)
 2. [Description](#Description)
 3. [Languages](#Languages-Used)
-4. [Packages](Packages)
-5. [Files to run](#Files-to-run)
-6. [Usage](#Usage)
-7. [Support](#Support)
-8. [Future work and Enhancements](#Future-work-and-Enhancements)
+5. [Usage](#Usage)
+6. [Support](#Support)
+7. [Future work and Enhancements](#Future-work-and-Enhancements)
 
 ## Name of the Project
 
