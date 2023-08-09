@@ -1,4 +1,4 @@
-# Research Methodology Project
+# ML Project
 <br/>
 This is a README file indicating the use of this repository
 
